@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="50" viewBox="0 0 216 50">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 100.266px;
+        fill: #222;
+        font-family: CormorantGaramond;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #ff5a60;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <text id="Multifarious" class="cls-1" transform="translate(59.106 35.959) scale(0.319)">Multifarious</text>
+  <path id="Icon" class="cls-2" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm9.09,27.495v7.745H28.14l2.472-3.218V24.712l-5.756,8.178H24.807l-5.539-7.65v6.627l2.591,3.373h-5.95V14.76h0.025l8.945,12.686L34.041,14.76h0.049V27.494Z"/>
+</svg>
